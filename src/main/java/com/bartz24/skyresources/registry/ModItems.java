@@ -112,7 +112,7 @@ public class ModItems
 		ModItems.addGem("spinel", 0xFF750000, 0.012F, new ItemStack(Blocks.NETHERRACK));
 		ModItems.addGem("iolite", 0xFF9502CF, 0.012F, new ItemStack(Blocks.STONE));
 		ModItems.addGem("blackDiamond", 0xFF262626, 0.009F, new ItemStack(Blocks.NETHERRACK));
-		ModItems.addGem("chaos", 0xFFFFE6FB, 0.009F, new ItemStack(Blocks.STONE));
+		ModItems.addGem("chaos", 0xFFFFE6FB, 0.1F, new ItemStack(Blocks.STONE));
 		ModItems.addGem("enderEssence", 0xFF356E19, 0.009F, new ItemStack(Blocks.END_STONE));
 		ModItems.addGem("dark", 0xFF242424, 0.27F, new ItemStack(Blocks.STONE));
 		ModItems.addGem("quartz", 0xFFFFFFFF, 0.42F, new ItemStack(Blocks.NETHERRACK));
